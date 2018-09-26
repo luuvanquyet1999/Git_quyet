@@ -33,13 +33,13 @@
 	border-top-left-radius: 5px;
 	background-color:white;
 }
-.menu .left{
+.khung .banner .header .menu .left{
 	float: left;
 	margin-left: 50px;
 	width: 57%;
 	height: 100%;
 }
-.left ul{
+.khung .banner .header .menu .left ul{
 	float: left;
 	margin: 0;
 	padding: 0;
@@ -48,27 +48,27 @@
 	width: 100%;
 	height: 100%;
 }
-.left ul li{
+.khung .banner .header .menu .left ul li{
 	display: block;
 	float: left;
 	height: 100%;
 	padding-right: 40px;
 }
-.left ul li a{
+.khung .banner .header .menu .left ul li a{
 	text-decoration: none;
 	text-transform: uppercase;
 	color: black;
 	font-weight: bolder;
 }
-.left ul li a:hover{
+.khung .banner .header .menu .left ul li a:hover{
 	color: #14ed09;
 }
-.menu .right{
+.khung .banner .header .menu .right{
 	float: left;
 	width: 35%;
 	height: 100%;
 }
-.right input{
+.khung .banner .header .menu .right input{
 	float: left;
 	margin-left: 5px;
 	margin-top: 48px;
@@ -78,7 +78,7 @@
 	border: 1px  solid grey;
 	margin-right: 10px;
 }
-.right .search{
+.khung .banner .header .menu .right .search{
 	float: left;
 	width: 100px;
 	height: 40px;
@@ -86,7 +86,7 @@
 	margin-top: 48px;
 	border-radius: 5px;
 }
-.right .search p{
+.khung .banner .header .menu .right .search p{
 	display: block;
 	margin: 0;
 	padding: 0;
@@ -101,6 +101,15 @@
 	width: 100%;
 	height: 450px;
 	background-image: url("http://i61.tinypic.com/1zeum9c.jpg");
+}
+.banner .pic h2{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	font-size: 54px;
+	color: red;
+	text-transform: uppercase;
+	padding-top: 170px;
 }
 .khung .text{
 	float: left;
