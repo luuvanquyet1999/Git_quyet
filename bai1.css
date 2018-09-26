@@ -1,0 +1,183 @@
+
+.loremtong h1{
+	float: left;
+	padding: 0;
+	margin: 0;
+}
+.loremtong h3{
+	padding: 0;
+	margin: 0;
+	display: block;
+	height: auto;
+}
+.loremtong p{
+	padding: 0;
+	margin: 0;
+	display: block;
+}
+.loremtong h2{
+	display: block;
+	padding:0;
+	height: 20px;
+	color: #213870;
+}
+
+.lorem{
+	float: left;
+	width: 100%;
+	height: 406px;
+	padding: 0;
+	margin: auto;
+}
+.lorem .gach{
+	float: left;
+	width: 100%;
+	height: 2px;
+	background:#F1F1F1;
+	padding: 0;
+}
+.lorem .vung{
+	float: left;
+	width: 100%;
+	height: 202px;
+}
+.lorem .vung .vung1{
+	padding-top: 50px;
+	float: left;
+	margin-left:2%;
+	width: 48%;
+	height: 50%;
+}
+.lorem .vung .vung1 .vung1a{
+	float: left;
+	width: 20%;
+	height: 100px;
+	background: #354B77;
+}
+.lorem .vung .vung1 .vung1b{
+	float: left;
+	width: 80%;
+	height: 100px;
+	background: #E5EAF3;
+}
+.lorem .vung h1 {
+	font-size: 50px;
+	padding: 25px;
+	color: white;
+	margin-left: 20px;
+}
+.lorem .vung h3{
+	text-align: center;
+	padding-top: 35px;
+	color: #6992C5;
+}
+.lorem .vung p{
+	text-align: center;
+	display: block;
+}
+.lorem1{
+	float: left;
+	width: 100%;
+	height: 75px;
+}
+.lorem1 .lorem11{
+	float: left;
+	width: 25%;
+	height: 100%;
+	background: #F9F9F9;
+}
+.lorem1 h1{
+	font-size: 30px;
+	color: #213870;
+	height: 70px;
+	line-height: 70px;
+}
+.aboutus{
+	float: left;
+	width: 100%;
+	height: 300px;
+}
+.aboutus .left{
+	float: left;
+	width: 75%;
+	height: 300px;
+	background: #F9F9F9;
+}
+.aboutus .right{
+	float: left;
+	width: 25%;
+	height: 300px;
+}
+.aboutus .left .box{
+	float: left;
+	width: 33%;
+	height: 100%;
+}
+.aboutus p{
+	display: block;
+	text-align: justify;
+	font-size: 17px;
+	color: #a6a897;
+	padding: 5px 0 5px;
+}
+.aboutus .viendut{
+	width: 80%;
+	height: 1px;
+	margin:10px 0 10px;
+	display: block;
+	border: 1px dotted #a6a897 ;
+}
+.aboutus h3{
+	padding-top: 5px;
+}
+.aboutus .right .top{
+	float: left;
+	width: 100%;
+	height: 200px;
+	background-image: url(http://quangcaotuyenquang.net/wp-content/uploads/2016/11/ct5.jpg);
+	background-size: 100% 100%;
+}
+
+.aboutus .right .bot{
+	float: left;
+	width: 100%;
+	height: 100px;
+}
+.aboutus .right .bot .hinh{
+	float: left;
+	width: 24%;
+	height: 100%;
+}
+.aboutus .right .bot .hinh.a{
+	margin-left: 1%;
+}
+.aboutus .right .bot .hinh img{
+	width: 100%;
+	height: 80%;
+}
+.bot{
+	width: 100%;
+	height: 50px;
+}
+.loremtong .kt{
+	float: left;
+	width: 100%;
+	height: 70px;
+}
+.loremtong .kt .kt1{
+	float: left;
+	width: 50%;
+	height: 100%;
+}
+.loremtong img{
+	padding-top: 20px;
+	width: 40px;
+	height: 40px;
+}
+.loremtong .kt h3{
+	float: right;
+	padding:20px 20px;
+	height:40px;
+	line-height: 40px;
+	color: #2f5a7f;
+}
